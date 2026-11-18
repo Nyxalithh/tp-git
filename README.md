@@ -3,8 +3,6 @@
 Ce dépôt sert à **un seul TP** : apprendre à travailler avec git et GitHub. Tu ne l'utilises pas
 directement : tu en fais ta propre copie (un *fork*), et tu travailles dessus.
 
-> **Pseudonyme obligatoire.** Sur GitHub, n'utilise ni ton nom, ni ton prénom, ni une photo de toi.
-> Ce dépôt est public.
 
 ## Avant de commencer
 
